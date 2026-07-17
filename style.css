@@ -28,6 +28,10 @@ section {
     background-color: rgb(245, 245, 245);
 }
 
+.container {
+    padding: 50px 0;
+}
+
 .click {
     transition: all 300ms ease;
 }
@@ -146,9 +150,12 @@ LANDING PAGE
     }
 }
 
+
 /* 
 
+
 NAVIGATION 
+
 
 */
 
@@ -186,3 +193,10 @@ nav {
 .fa-adjust {
     font-size: 20px;
 }
+
+
+/* 
+
+PROJECTS 
+
+*/
